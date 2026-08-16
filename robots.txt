@@ -9,5 +9,3 @@ Disallow: /admin/
 Disallow: /private/
 Disallow: /thank-you/
 
-# Crawl-delay for heavy bots
-Crawl-delay: 1
