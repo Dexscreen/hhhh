@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    <url>
+        <loc>https://hireahacker.group/</loc>
+        <image:image>
+            <image:loc>https://hireahacker.group/Images/hire-a-hacker.png</image:loc>
+            <image:title>Hire a Hacker Logo</image:title>
+            <image:caption>Professional Ethical Hacking Services</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://hireahacker.group/Images/background-hero.png</image:loc>
+            <image:title>Ethical Hacking Services</image:title>
+            <image:caption>Certified hackers for iPhone, WhatsApp, Android and Instagram</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://offsec.blog/wp-content/uploads/2023/01/BeSmart_HireAHacker_blogheader2.png</image:loc>
+            <image:title>Hire a Hacker Banner</image:title>
+            <image:caption>Professional ethical hacking services worldwide</image:caption>
+        </image:image>
+    </url>
+</urlset>
